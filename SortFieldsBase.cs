@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TSIAviatests.Models.Shared
+namespace Dewhitee.Sorting
 {
     /// <summary>
     /// Abstract base class for defining the creation of <see cref="SortingOrders"/> for specific fields of a view model.

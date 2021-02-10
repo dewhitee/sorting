@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TSIAviatests.Models.Shared
+namespace Dewhitee.Sorting
 {
     public enum SortingOrderMode
     {
